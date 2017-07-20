@@ -1,0 +1,2 @@
+class DictionarySearcher
+end
