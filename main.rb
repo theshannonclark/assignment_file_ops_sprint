@@ -1,4 +1,4 @@
 require_relative 'src/DictionaryUI'
 
 dict_ui = DictionaryUI.new
-dict.run
+dict_ui.run
